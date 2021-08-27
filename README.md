@@ -1,2 +1,2 @@
 # color-names
-This file will have few color names.
+This repository is about colors.
