@@ -7,4 +7,4 @@ Orange
 purple 
 cyan
 Black
-white
+grey
